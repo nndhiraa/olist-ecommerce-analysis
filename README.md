@@ -17,7 +17,9 @@ Tables:
 - Payments → payment methods and transaction values 
 
 *ERD*
-![ERD](./assets/erd.png)
+<p align="left">
+  <img src="./assets/erd.png" width="550">
+</p>
 
 ## Business Questions
 
@@ -72,8 +74,11 @@ The repeat customer rate is relatively low at 3.12%, indicating that most custom
 - Analyze customer segmentation for targeted campaigns
 
 ## Dashboard Preview
-![Dashboard](./assets/dashboard.png) 
-[View Dashboard](link-dashboard) 
+<p align="center">
+  <img src="./assets/dashboard.png" width="750">
+</p>
+
+[View Dashboard](./dashboard/olist_ecommerce.pbix) 
 
 ## Tools
 
@@ -87,10 +92,11 @@ The repeat customer rate is relatively low at 3.12%, indicating that most custom
 /sql
 ├── exploration.sql
 ├── analysis.sql
-
 /assets
 ├── erd.png
 ├── dashboard.png
+/dashboard
+├── olist_ecommerce.pbix
 ``` 
 ## Conclusion
 
