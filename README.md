@@ -89,6 +89,8 @@ The repeat customer rate is relatively low at 3.12%, indicating that most custom
 
 ## Project Structure
 ```text
+├── README.md
+├── olist.ipynb
 /sql
 ├── exploration.sql
 ├── analysis.sql
